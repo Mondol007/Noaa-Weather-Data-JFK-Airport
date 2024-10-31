@@ -2,15 +2,15 @@ Epoch: 300
 
 Multivariate:
 
-LSTM:           						     GRU:
-Train:      1.007723974198602			    	     Train:      1.0038558364251036
+LSTM:           						             GRU:
+Train:      1.007723974198602			    	 Train:      1.0038558364251036
 Validation: 1.0053616549026527			     Validation: 1.0080361131035878
 Test:       1.1555932345489488			     Test:	     1.1390294391101632
 
 
 Univariate:
 
-LSTM:           						     GRU:
+LSTM:           						             GRU:
 Train:      1.0561231898963759			     Train:      1.056469180939782
 Validation: 1.0490322558292142			     Validation: 1.047811279992447
 Test:       1.1654473338572082			     Test:	     1.1679913597483453
