@@ -16,18 +16,3 @@ Validation: 1.0490322558292142			     Validation: 1.047811279992447
 Test:       1.1654473338572082			     Test:	     1.1679913597483453
 
 
-
-### Multivariate Time Series Analysis
-
-| Model | Train Loss | Validation Loss | Test Loss |
-|-------|------------|-----------------|-----------|
-| **LSTM** | 1.0077 | 1.0054 | 1.1556 |
-| **GRU**  | 1.0039 | 1.0080 | 1.1390 |
-
-### Univariate Time Series Analysis
-
-| Model | Train Loss | Validation Loss | Test Loss |
-|-------|------------|-----------------|-----------|
-| **LSTM** | 1.0561 | 1.0490 | 1.1654 |
-| **GRU**  | 1.0565 | 1.0478 | 1.1680 |
-
