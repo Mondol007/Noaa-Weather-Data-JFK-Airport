@@ -1,10 +1,12 @@
+# **JFK Airport Visibility Prediction Using LSTM and GRU Time Series Models**
+
 ## **Overview**
 - Developed a time series forecasting model to predict hourly visibility at JFK Airport using the LSTM and GRU models.
 
 ## **Data Preprocessing**
 - Loaded a cleaned weather dataset and converted the 'DATE' column to datetime format.
 - Set the 'DATE' column as the index, dropped it from the Dataframe, and visualized the hourly visibility over time.
-- Split the time series data into input sequences using a sliding window approach for a univariate model.
+- Split the time series data into input sequences using a sliding window approach for both univariate and multivariate models.
 - Reshaped input data to fit the LSTM and GRU models and divided it into training, validation, and test sets.
 
 ## **Methodology**
