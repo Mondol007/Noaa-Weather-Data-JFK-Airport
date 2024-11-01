@@ -1,4 +1,4 @@
-# **JFK Airport Visibility Prediction Using LSTM and GRU Time Series Models**
+# **JFK Airport Visibility Prediction Using Time Series Forecasting**
 
 ## **Overview**
 - Developed a time series forecasting model to predict hourly visibility at JFK Airport using the LSTM and GRU models.
