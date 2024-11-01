@@ -26,7 +26,7 @@
 
 ### Univariate Time Series Analysis
 
-| Model | Train Loss | Validation Loss | Test Loss |
+| Model | Train RMSE | Validation RMSE | Test RMSE |
 |-------|------------|-----------------|-----------|
 | **LSTM** | 1.0561 | 1.0490 | 1.1654 |
 | **GRU**  | 1.0565 | 1.0478 | 1.1680 |
