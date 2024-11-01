@@ -19,7 +19,7 @@
 
 ### Multivariate Time Series Analysis
 
-| Model | Train Loss | Validation Loss | Test Loss |
+| Model | Train RMSE | Validation RMSE | Test RMSE |
 |-------|------------|-----------------|-----------|
 | **LSTM** | 1.0077 | 1.0054 | 1.1556 |
 | **GRU**  | 1.0039 | 1.0080 | 1.1390 |
